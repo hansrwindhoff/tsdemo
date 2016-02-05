@@ -1,0 +1,1 @@
+var tconst = 42;
